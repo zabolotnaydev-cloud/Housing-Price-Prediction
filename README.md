@@ -27,5 +27,5 @@ The notebook walks through the full ML pipeline:
 
 ---
 
-## 📂 Repository Structure  
+
 
